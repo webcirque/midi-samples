@@ -1,0 +1,26 @@
+{
+	"package": "52fd8bde-cd85-4284-a0e6-f098a3dae251",
+	"author": "Various Artists",
+	"credits": "credits.md",
+	"version": [0, 0, 1],
+	"instruments": [
+		{
+			"id": "harp01",
+			"class": "harp",
+			"channelCount": 1,
+			"curve": "exponential",
+			"attack": 0.2,
+			"release": 0.1,
+			"originalVolume": -0.2
+		},
+				{
+			"id": "piano01",
+			"class": "acoustic piano",
+			"channelCount": 1,
+			"curve": "exponential",
+			"attack": 0.2,
+			"release": 0.1,
+			"originalVolume": -0.2
+		}
+	]
+}
