@@ -7,15 +7,39 @@
 		{
 			"id": "harp01",
 			"class": "harp",
+			"notes": {
+				"Bb3": "~#",
+				"Eb3": "~#",
+				"F4": "~#",
+				"C5": "~#",
+				"G5": "~#",
+				"D6": "~#"
+			},
+			"defExt": ".flac",
 			"channelCount": 1,
 			"curve": "exponential",
 			"attack": 0.2,
 			"release": 0.1,
 			"originalVolume": -0.2
 		},
-				{
+		{
 			"id": "piano01",
 			"class": "acoustic piano",
+			"notes": {
+				"C1": "~#",
+				"G1": "~#",
+				"D2": "~#",
+				"A2": "~#",
+				"E3": "~#",
+				"B3": "~#",
+				"Gb4": "~#",
+				"Db5": "~#",
+				"Ab5": "~#",
+				"Eb6": "~#",
+				"Bb6": "~#",
+				"F7": "~#"
+			},
+			"defExt": ".flac",
 			"channelCount": 1,
 			"curve": "exponential",
 			"attack": 0.2,
